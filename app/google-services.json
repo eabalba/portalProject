@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667201020097",
+    "project_id": "portalproject-cdeb0",
+    "storage_bucket": "portalproject-cdeb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667201020097:android:030e49e6f1e2a14c6b3440",
+        "android_client_info": {
+          "package_name": "com.example.portalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667201020097-k9p4dbarvlui0hi1h8d25bboqrsklts9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNc64IHP8mQXJsD_ONsFVLnJkpluX9nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667201020097-k9p4dbarvlui0hi1h8d25bboqrsklts9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
